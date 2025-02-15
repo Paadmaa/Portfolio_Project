@@ -108,3 +108,10 @@ The goal of this project is to:
 - Expand the analysis with additional clinical and environmental data.
 - Conduct predictive modeling to identify high-risk groups.
 - Explore longitudinal trends in OCD severity and treatment outcomes.
+
+# Connect with Me
+
+You can find me on these platforms:
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paadmaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/padmach-behera)
