@@ -1,4 +1,4 @@
-# Spotify Advanced SQL Project and Query Optimization P-6
+# Spotify Advanced SQL Project and Query Optimization
 Project Category: Advanced
 [Click Here to get Dataset](https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
 
@@ -168,10 +168,12 @@ This optimization shows how indexing can drastically reduce query time, improvin
 
 ---
 
+# Connect with Me
+
+You can find me on these platforms:
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paadmaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/padmach-behera)
+
 ## Contributing
 If you would like to contribute to this project, feel free to fork the repository, submit pull requests, or raise issues.
-
----
-
-## License
-This project is licensed under the MIT License.
