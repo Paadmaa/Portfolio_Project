@@ -200,4 +200,7 @@ The project uses three primary tables:
 ---
 
 ### Contact
-For further queries or collaboration, feel free to reach out via [LinkedIn](www.linkedin.com/in/padmach-behera).
+You can find me on these platforms:
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paadmaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/padmach-behera)
