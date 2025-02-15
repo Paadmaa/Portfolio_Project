@@ -59,8 +59,5 @@ After analyzing the data, the recommended top three cities for new store opening
 
 You can find me on these platforms:
 
-[![GitHub](https://img.shields.io/github/followers/your-github-username?style=social)](https://github.com/Paadmaa/)
-[![LinkedIn](https://img.shields.io/linkedin/in/your-linkedin-username?style=social)](https://www.linkedin.com/in/padmach-behera/)
-
-Feel free to reach out and connect!
-
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paadmaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/padmach-behera)
